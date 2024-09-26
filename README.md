@@ -1,4 +1,4 @@
-## Hi there 👋
+I love building computer vision-based solutions for real-world applications 📸🧠🚀.
 
 <!--
 **krodri95/krodri95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
